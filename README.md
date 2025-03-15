@@ -25,4 +25,4 @@ patchset=kpnp_russ
 ```
 - _titleid_ - title_id of a game (required)
 - _version_ - recommended game version (optional)
-- _patchset_- name for the .ips patches directory
+- _patchset_- name for the .ips patches directory (optional)
