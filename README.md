@@ -1,3 +1,7 @@
+[New tool](https://github.com/arabianq/build_msp)
+
+---
+
 # Small script to build .msp mod file
 Tested on linux only
 
